@@ -1,3 +1,0 @@
-# theburningor.github.io
-
-Website
