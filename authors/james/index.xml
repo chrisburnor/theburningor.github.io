@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Burning Or</title>
-    <link>/</link>
+    <link>/authors/james/</link>
     <description>Recent content on The Burning Or</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Apr 2020 18:16:48 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/james/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

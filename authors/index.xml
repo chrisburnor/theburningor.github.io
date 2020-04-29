@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on The Burning Or</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on The Burning Or</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 18:16:48 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/james/</link>
+      <pubDate>Tue, 28 Apr 2020 18:16:48 +0000</pubDate>
+      
+      <guid>/authors/james/</guid>
+      <description>about James</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/john/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/john/</guid>
+      <description>about James</description>
+    </item>
+    
+  </channel>
+</rss>
